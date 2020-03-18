@@ -116,9 +116,6 @@ int test_perf_by_sz(int test_size)
 
 void main(void)
 {
-	test_perf_by_sz(1000);
-	test_perf_by_sz(10000);
-	test_perf_by_sz(100000);
 	test_perf_by_sz(1000000);
 
 }
