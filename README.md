@@ -33,4 +33,6 @@ TESTING data size 1000000
 0.001403 sec, total time taken by switch conversion
 ```
 ![Alt text](SwitchvsMap.png "with 1M lookups")
+![Alt text](SwitchvsMap_10k.png "with 10k lookups")
+
 
